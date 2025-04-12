@@ -1,0 +1,6 @@
+.contacts-wraper {
+
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
